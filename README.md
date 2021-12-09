@@ -1,7 +1,7 @@
-# illions.js
+# illions.js: v2.01
 A library for generating illions and standard notation with really huge numbers.
 
-[Made by Aarex Tiaokhiao, 2021.](https://aarextiaokhiao.github.io/googology/)
+[Made by Aarex Tiaokhiao, 2021.](https://aarextiaokhiao.github.io/googology.html)
 
 Feel free to use it at: https://github.com/aarextiaokhiao/illions.js/blob/main/illions.js
 
